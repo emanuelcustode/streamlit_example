@@ -17,4 +17,5 @@ plt.ylabel('Number of Wins')
 plt.title('Welche Nation holt die meisten EM-Titel? ')
 plt.tight_layout()
 
+
 st.pyplot(plt.gcf())
